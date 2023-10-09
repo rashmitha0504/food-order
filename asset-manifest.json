@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/food-order/static/css/main.b957071b.css",
+    "main.js": "/food-order/static/js/main.2b2e698b.js",
+    "static/media/Biryani.jpg": "/food-order/static/media/Biryani.b257df0dd077bae57df1.jpg",
+    "static/media/about.jpg": "/food-order/static/media/about.5116fc5aa900c5375553.jpg",
+    "static/media/Kfc.png": "/food-order/static/media/Kfc.a32911a8ba7f3fe8b80a.png",
+    "static/media/Ice.jpg": "/food-order/static/media/Ice.bc04c35d6fe72ab84cf3.jpg",
+    "static/media/banner.png": "/food-order/static/media/banner.9449dd759f818cf529ec.png",
+    "static/media/contact.jpg": "/food-order/static/media/contact.2860ff5b4495c7b14da8.jpg",
+    "static/media/Drinks.jpg": "/food-order/static/media/Drinks.1ce17c03d854294bf9ae.jpg",
+    "static/media/Soup.jpg": "/food-order/static/media/Soup.dbf41c44252e774ca3d5.jpg",
+    "static/media/Dosa.jpg": "/food-order/static/media/Dosa.85c77e8699ec325c4f24.jpg",
+    "static/media/Burger.jpg": "/food-order/static/media/Burger.ea2a6f40e497c4f61104.jpg",
+    "static/media/logo.png": "/food-order/static/media/logo.a73a0ee4e00c4cc16ea7.png",
+    "static/media/vegBir.jpg": "/food-order/static/media/vegBir.1a9bb40a321791dea2b7.jpg",
+    "static/media/Idly.jpg": "/food-order/static/media/Idly.0edec6440ae9d5227e6d.jpg",
+    "index.html": "/food-order/index.html",
+    "main.b957071b.css.map": "/food-order/static/css/main.b957071b.css.map",
+    "main.2b2e698b.js.map": "/food-order/static/js/main.2b2e698b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b957071b.css",
+    "static/js/main.2b2e698b.js"
+  ]
+}
